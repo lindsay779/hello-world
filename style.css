@@ -31,12 +31,13 @@
 
 #footer {
   clear: both;
+  padding: 10px;
+  background-color: #999999;
 }
 
 #nav ul {
   list-style-type: none;
   padding: 0;
-  color: maroon;
 }
 
 #nav .selected {
@@ -45,6 +46,7 @@
 
 a {
   text-decoration: none;
+  color: maroon;
 }
 
 
