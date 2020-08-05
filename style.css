@@ -20,7 +20,7 @@
 #nav {
   width: 180px;
   float: left;
-  background-color: #48D1CC;
+  background-color: white;
 }
 
 #main {
@@ -37,6 +37,9 @@
   list-style-type: none;
 }
 
+#nav .selected {
+  font-weight: bold;
+}
 
 
 
