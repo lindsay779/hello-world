@@ -1,8 +1,16 @@
 #header {
   background-color: #D8BFD8;
   color: maroon;
-  font-family: "Cinzel"
-  
+  font-family: "Cinzel";
+  text-align: center;
+}
+
+#container {
+  background-color: white;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+ 
 }
 
 
