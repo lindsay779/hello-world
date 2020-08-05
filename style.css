@@ -32,6 +32,10 @@
   clear: both;
 }
 
+#nav ul {
+  list-style-type: none;
+}
+
 
 
 
