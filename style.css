@@ -1,9 +1,5 @@
-.placeholder {
-  background-color: red;
-}
-
-.anotherClass {
-  background-color: lightseagreen;
+.nav-wrapper {
+  display: flex;
 }
 
 
