@@ -86,6 +86,12 @@ body {
   margin-bottom: 20px;
 }
 
+.img-text-wrapper .subtitle {
+  transition: 1s;
+  color: transparent;
+}
+
+
 .img-text-wrapper:hover .subtitle {
   font-weight: 600;
   color: lightseagreen;
